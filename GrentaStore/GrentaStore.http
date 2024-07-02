@@ -1,0 +1,6 @@
+@GrentaStore_HostAddress = http://localhost:5291
+
+GET {{GrentaStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
